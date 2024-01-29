@@ -55,8 +55,16 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/_vidhu__________">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=_vidhu__________&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/_Vidhu________">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=_Vidhu________&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <a href="https://in.linkedin.com/in/vidhu-prakash-t-p-a244a2257?trk=people-guest_people_search-card" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
