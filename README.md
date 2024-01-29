@@ -70,10 +70,3 @@
 
 ###
 
-<div align="left">
-  <a href="https://in.linkedin.com/in/vidhu-prakash-t-p-a244a2257?trk=people-guest_people_search-card" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
