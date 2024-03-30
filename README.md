@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! My name is Vidhu Prakash and I'm a Software Engineer from Kerala</h2>
 
 ###
 
