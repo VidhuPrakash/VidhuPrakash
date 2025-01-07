@@ -1,7 +1,6 @@
 
 ###
 
-<img align="right" height="250" src="https://cdn.wallpapersafari.com/22/44/ilxW01.png"  />
 
 ###
 
