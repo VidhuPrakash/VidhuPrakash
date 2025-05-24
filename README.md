@@ -46,7 +46,7 @@ Here are the technologies I work with regularly:
 You can find me on LinkedIn, where I share tech articles, ideas, and more:
 
 <div align="left">
-  <a href="www.linkedin.com/in/fullstackdev-vidhuprakashtp" target="_blank">
+  <a href="https://www.linkedin.com/in/fullstackdev-vidhuprakashtp" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
