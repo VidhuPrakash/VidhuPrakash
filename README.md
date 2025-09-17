@@ -37,9 +37,9 @@ Here are the technologies I work with regularly:
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuF26B1XWpZI_mp-Ueapo-IyLT91doHYHt0w&s" height="30" alt="npm logo"  />
   <img width="12" />
-  <img src="[https://cdn.icon-icons.com/icons2/2699/PNG/512/graphql_logo_icon_171045.png](https://avatars.githubusercontent.com/u/108468352?v=4)" height="30" alt="npm logo"  />
+  <img src="https://avatars.githubusercontent.com/u/108468352?v=4" height="30" alt="npm logo"  />
   <img width="12" />
-  <img src="[https://cdn.icon-icons.com/icons2/2699/PNG/512/graphql_logo_icon_171045.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvtARwdA-FRk9fnUv5W9autHvzplUfD7nXQ&s)" height="30" alt="npm logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvtARwdA-FRk9fnUv5W9autHvzplUfD7nXQ&s" height="30" alt="npm logo"  />
   <img width="12" />
 
 </div>
