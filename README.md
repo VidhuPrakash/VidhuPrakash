@@ -41,7 +41,8 @@ Here are the technologies I work with regularly:
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvtARwdA-FRk9fnUv5W9autHvzplUfD7nXQ&s" height="30" alt="npm logo"  />
   <img width="12" />
-
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/cloudflare-workers-icon-jsii6pml8tdp4sy8kgarwe.png/cloudflare-workers-icon-gfyr5fw7aqcwsa1on45oem.png?_a=DATAg1AAZAA0" height="30" alt="npm logo"  />
+  <img width="12" />
 </div>
 
 ---
