@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a focus
 
 Here's a little bit about me:
 
-- 🔭 I’m currently working on building advanced full-stack web apps with NextJS, Node.js, Express, MongoDB, PostgreSQL and GraphQL.
+- 🔭 I’m currently working on building advanced full-stack web apps with NextJS, Node.js, Express.js, Hono.js, MongoDB, Prisma, Drizzle, PostgreSQL, GraphQL.
 - 🌱 I’m constantly learning new technologies and improving my skills in programming languages such as Python, JavaScript, and C.
 - 👯 I’m looking to collaborate on interesting and challenging projects.
 - 💬 Ask me about anything related to web development, and I’ll try my best to help you out.
@@ -35,8 +35,13 @@ Here are the technologies I work with regularly:
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/graphql_logo_icon_171045.png" height="30" alt="npm logo"  />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" height="30" alt="npm logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuF26B1XWpZI_mp-Ueapo-IyLT91doHYHt0w&s" height="30" alt="npm logo"  />
   <img width="12" />
+  <img src="[https://cdn.icon-icons.com/icons2/2699/PNG/512/graphql_logo_icon_171045.png](https://avatars.githubusercontent.com/u/108468352?v=4)" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="[https://cdn.icon-icons.com/icons2/2699/PNG/512/graphql_logo_icon_171045.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvtARwdA-FRk9fnUv5W9autHvzplUfD7nXQ&s)" height="30" alt="npm logo"  />
+  <img width="12" />
+
 </div>
 
 ---
